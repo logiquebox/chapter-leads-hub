@@ -1,6 +1,6 @@
 # Chapter Leads Hub 🎖
 
-OSCA Chapter Leads can use this repository for:
+OSCA Chapter Leads will use this repository for:
 - Discussing and planning chapter activities
 - Requesting help, support or materials from Open Source Community Africa
 - Tracking and talking about the activities you are organizing
@@ -41,7 +41,7 @@ After getting your event and request approved, you will then proceed to host the
 
 👍 **Submit your event report**
 
-You will then return to the created issue to tell everyone how it went including photos from the event, relevant social media posts, number of attendees and other details. You will will create the post event report using the [Post Event Template](/chapter-leads-hub/blob/master/docs/post-event-template.md) and submit any expenses by following the [Expense procedure](/chapter-leads-hub/blob/master/docs/expenses.md)
+You will then return to the created issue to report how the event went including photos, relevant social media posts, number of attendees and other details. You will hence create the post event report using the [Post Event Template](/chapter-leads-hub/blob/master/docs/post-event-template.md) and submit any expenses by following the [Expense submission guideline](/chapter-leads-hub/blob/master/docs/expenses.md)
 
 ✅ **Close the issue**
 
