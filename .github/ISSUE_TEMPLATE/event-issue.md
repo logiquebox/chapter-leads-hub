@@ -1,4 +1,5 @@
 ---
+
 name: Event Issue
 about: Create an Issue to get support from OSCA for an event.
 title: EVENT NAME | CHAPTER - YYYY/MM/DD
@@ -22,15 +23,11 @@ _Please complete all applicable._
 - **Event location**:
 - **Event description**:
 
-
 ## How does this benefit your chapter?
 _Please let us know why we should approve this event._
 
-
 ## What help do you need with this event? 
 _Tell us how Open Source Community Africa can help with this event._
-
-
 
 ## Checklist
 
