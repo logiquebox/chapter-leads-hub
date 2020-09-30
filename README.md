@@ -14,11 +14,12 @@ OSCA Chapter Leads will use this repository for:
 - 🏷 Add the specific labels needed for your request.
 - ＠ Tag the community manager or any other OSCA team member to help with your request.
 - 🎊 Host the event!
-- 👍 Submit your event report.
+- 👍 Submit your post event report.
 - ✅ Close the issue.
 
 ## Sponsorship Guidelines
-We created guidlines around sponsorships, please make sure to check them [here](/chapter-leads-hub/blob/master/docs/sponsorship.md) before opening an issue.
+
+Here are the [guidelines around sponsorships](/chapter-leads-hub/blob/master/docs/sponsorship.md), kindly check them out before opening an issue.
 
 ## Here's a Request Example:
 
@@ -26,7 +27,7 @@ Let's say you want to host a workshop on "Introduction to Open Source" for your 
 
 🎖 **Open an issue**
 
-You will open an issue "Introduction to Open Source Workshop at University of Lagos", and describe what you're planning to do as requested in the issue template.
+You will open an issue titled "Introduction to Open Source Workshop at University of Lagos", and describe what you're planning to do as requested in the issue template.
 
 🏷 **Add lables**
 
@@ -43,7 +44,7 @@ After your event and request is approved, you will then proceed to host the work
 
 👍 **Submit your event report**
 
-You will then return to the created issue to report how the event went including photos, relevant social media posts, reports and other details. You will hence create the post event report using the [Post Event Template](/chapter-leads-hub/blob/master/docs/post-event-template.md) and submit any expenses by following the [Expense submission guideline](/chapter-leads-hub/blob/master/docs/expenses.md)
+After the event is completed, return to the created issue and submit a post event report. Your report should include photos, relevant social media posts, reports and any other details. To create the post event report, use the [Post Event Template](/chapter-leads-hub/blob/master/docs/post-event-template.md) and submit any expenses by following the [Expense submission guideline](/chapter-leads-hub/blob/master/docs/expenses.md).
 
 ✅ **Close the issue**
 
