@@ -16,7 +16,7 @@ _Any comments on the event venue? What worked well for you? Did you experience a
 
 _Did all your plans before the event (schedule, budget, logistics, e.t.c) work well during the event? What didn't work well?_
 
-_Feel free to share your positive and negative experiences here with maybe bullet points._
+_Feel free to share your positive and negative experiences here with bullet points._
  
 
 ## TIL (Today I Learned) ⚪️
@@ -40,6 +40,8 @@ _Embed images from the event here or add a link to an image repository, drive, o
 
 ## Summary 🟡
 
-_Generally, what's your overview of the event and how it went for you as a Chapter Lead?_
+_Generally, what's your overview of the event?_
+
+_How did it go for you as a Chapter Lead?_
 
 _Looking forward to the next event? What changes will you be making based on your experience from this event?_
