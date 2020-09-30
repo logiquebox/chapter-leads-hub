@@ -27,7 +27,7 @@ Let's say you want to host a workshop on "Introduction to Open Source" for your 
 
 🎖 **Open an issue**
 
-You will open an issue titled "Introduction to Open Source Workshop at University of Lagos", and describe what you're planning to do as requested in the issue template.
+You will open an issue titled "Introduction to Open Source Workshop | Lagos", and describe what you're planning to do as requested in the issue template.
 
 🏷 **Add lables**
 
