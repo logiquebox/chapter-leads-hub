@@ -37,4 +37,4 @@ You will need access to the [expenses folder](https://drive.google.com/drive/fol
 
 ## Getting Paid - Open Collective
 
-Expenses will be reimbursed via [Open Collective](https://opencollective.com/osca). Read this [guide]() to learn how to submit an expense.
+Expenses will be reimbursed via [Open Collective](https://opencollective.com/osca). Read this [guide](https://docs.oscafrica.org/expenses-and-getting-paid/submitting-expenses) to learn how to submit an expense.
