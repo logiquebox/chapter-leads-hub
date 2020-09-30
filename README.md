@@ -6,7 +6,7 @@ OSCA Chapter Leads will use this repository for:
 - Requesting help, support, or materials from Open Source Community Africa. 
 - Tracking and talking about the activities you are organizing.
 - Checking out the docs for chapter design assets, managing expenses, and sponsorship information.
-- Anything else a Chapter Lead needs to be successful.ssful.
+- Anything else a Chapter Lead needs to be successful.
 
 ## How it works:
 
