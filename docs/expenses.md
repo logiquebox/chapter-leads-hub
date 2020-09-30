@@ -32,7 +32,6 @@ You will need access to the [expenses folder](https://drive.google.com/drive/fol
 - Ensure you get expense approval before expenses.
 - Keep receipts and proof of purchases.
 - Upload receipts to the [receipt folder](https://drive.google.com/drive/folders/12nmfXKsLdxx0bDPmIf_xOaylP82aEbZs?usp=sharing) with the title: **YOUR NAME - MERCHANT NAME - DATE OF PURCHASE**
-- Once you have uploaded the receipt, check the sharing settings, and ensure only community@oscafrica.org is enabled.
 - Fill out the row in the [expense log](https://docs.google.com/spreadsheets/d/1OXQcCQ3FDHxbxTb-796xf1yPVuF3ipDP8g7UcbaLmm8/edit?usp=sharing).
 
 ## Getting Paid - Open Collective
