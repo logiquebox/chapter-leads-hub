@@ -31,7 +31,7 @@ You will open an issue titled *"Introduction to Open Source Workshop | Lagos | 2
 
 🏷 **Add lables**
 
-You will then add the labels "Nigeria" (Your location) and "Workshop" (Event Type) to describe where you are and what you are organizing alongside any other related tag(s). See all tags [here](https://github.com/oscafrica/chapter-leads-hub/tags).
+You will then add the labels "Nigeria" (Your location) and "Workshop" (Event Type) to describe where you are and what you are organizing alongside any other related tag(s). See all tags [here](https://github.com/oscafrica/chapter-leads-hub/labels).
 
 
 ＠ **Tag anyone you think can help you**
