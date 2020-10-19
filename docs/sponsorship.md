@@ -32,4 +32,4 @@ After approval:
 
 - OSCA will _reimburse_ Chapter Leads for approved costs associated with a relevant event. (Please keep your receipts)
 - Upon event completion, you will submit an expense via OSCA's [Open Collective](https://opencollective.com/osca) with your receipts.
-- Read more on the expenses process [here](/expenses.md).
+- Read more on the expenses process [here](./expenses.md).
