@@ -12,7 +12,7 @@ assignees: ''
 
 > If the event is a multiple date event, only add the starting date in the title.
 
-> Please note we need **30 days notice at minimum** to approve proposed events.
+> Please note we need **3 weeks notice at minimum** to approve proposed events.
 
 ## Event information
 _Please complete all applicable._
