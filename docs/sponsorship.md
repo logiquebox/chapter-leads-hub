@@ -9,12 +9,11 @@ Open Source Community Africa provides funding to Chapter Leads for community eve
  
 ## Sponsorship Guidelines
 
-1. We provide a $200 max **per event** and $1000 max per Chapter **in total** *per year*.
-2. You need to have completed your previous event's post-event-report before opening a new issue for an event. Writing a Post-event report is **compulsory**.
-3. Event expenses will be reimbursed only if approved before the event.
-4. Please add a breakdown of your budget for each event issue you open.
-5. Ensure to keep every receipt associated with the event; you need this to request for reimbursement.
-6. Please help us help you by spending responsibly. 
+1. You need to have completed your previous event's post-event-report before opening a new issue for an event. Writing a Post-event report is **compulsory**.
+2. Event expenses will be reimbursed only if approved before the event.
+3. Please add a breakdown of your budget for each event issue you open.
+4. Ensure to keep every receipt associated with the event; you need this to request for reimbursement.
+5. Please help us help you by spending responsibly.
 
 ## External Sponsorship
 
