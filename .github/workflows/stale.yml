@@ -1,0 +1,19 @@
+name: Mark stale issues and pull requests
+
+on:
+  schedule:
+  - cron: "30 1 * * *"
+
+jobs:
+  stale:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/stale@v3
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        stale-issue-message: 'Hi, you have not submitted your post event report yet. Kindly use the [Post Event Template](https://github.com/oscafrica/chapter-leads-hub/blob/master/docs/post-event-template.md), submit your report and we will close this issue'
+        stale-issue-label: 'no-post-event-report'
+        days-before-issue-stale: 40
+        days-before-issue-close: -1
