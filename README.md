@@ -44,7 +44,7 @@ After your event and request is approved, you will then proceed to host the work
 
 👍 **Submit your event report**
 
-After the event is completed, return to the created issue and submit a post event report. Your report should include photos, relevant social media posts, reports and any other details. To create the post event report, use the [Post Event Template](/docs/post-event-template.md) and submit any expenses by following the [Expense submission guideline](/docs/expenses.md).
+After the event is completed, return to the created issue and submit a post event report. Your report should include photos, relevant social media posts, reports and any other details. To create the post event report, use the [Post Event Template](/docs/post-event-template.md), submit the report as a comment under the issue, and submit any expenses by following the [Expense submission guideline](/docs/expenses.md).
 
 ✅ **Close the issue**
 
