@@ -10,7 +10,7 @@ Open Source Community Africa provides funding to Chapter Leads for community eve
 ## Sponsorship Guidelines
 
 1. You need to have completed your previous event's post-event-report before opening a new issue for an event. Writing a Post-event report is **compulsory**.
-2. Event expenses will be reimbursed only if approved before the event.
+2. Event expenses will be sponsored or reimbursed only if approved before the event.
 3. Please add a breakdown of your budget for each event issue you open.
 4. Ensure to keep every receipt associated with the event; you need this to request for reimbursement.
 5. Please help us help you by spending responsibly.
@@ -29,6 +29,6 @@ Expenses must be approved in advance. Please send us an overview of your budget 
 
 After approval:
 
-- OSCA will _reimburse_ Chapter Leads for approved costs associated with a relevant event. (Please keep your receipts)
-- Upon event completion, you will submit an expense via OSCA's [Open Collective](https://opencollective.com/osca) with your receipts.
+- OSCA will sponsor Chapter Leads for approved costs associated with a relevant event. (Please keep your receipts)
+- Upon event completion, you will submit your expense receipts and proof of purchases.
 - Read more on the expenses process [here](./expenses.md).
