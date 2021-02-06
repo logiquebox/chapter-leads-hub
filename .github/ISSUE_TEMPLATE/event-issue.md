@@ -12,7 +12,9 @@ assignees: ''
 
 > If the event is a multiple date event, only add the starting date in the title.
 
-> Please note we need **3 weeks notice at minimum** to approve proposed events.
+> Please note that we need **2 weeks minimum and 3 weeks maximum notice** to approve proposed events.
+
+> Please note that we need **21 days maximum notice** to provide support from your request.
 
 ## Event information
 _Please complete all applicable._
@@ -34,11 +36,14 @@ _Tell us how Open Source Community Africa can help with this event._
 **Before you post the issue**: 
 - [ ] You have followed the issue title format.
 - [ ] You have applied the correct labels (Country, Type of Event, Requests).
+- [ ] You have completed the [request form](https://bit.ly/osca-cl-request) for sponsorship.
 
 **Before the event**: 
 - [ ] Your event is approved.
 - [ ] Your event's RSVP page has been created on [Open Collective](https://opencollective/osca).
+- [ ] You have received your sponsorship (if requested).
 
 **After the event**:  
 - [ ] You have completed the [post-event report](/chapter-leads-hub/blob/master/docs/post-event-template.md).
+- [ ] You have submitted all related expense receipts for this event
 - [ ] This issue is closed.
