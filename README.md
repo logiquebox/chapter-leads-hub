@@ -38,6 +38,10 @@ You will then add the labels "Nigeria" (Your location) and "Workshop" (Event Typ
 
 You will then tag the community manager or any other OSCA team member to help with your request.
 
+🗣 **Publicize the event**
+
+Create a banner for your event using the design guidelines and share it with the global and your local OSCA community on Discord and social media. Your community manager will also create an RSVP page for you (once your event is approved), with which you will collect important information from your attendees before the event.
+
 ✨ **Host the event!**
 
 After your event and request is approved, you will then proceed to host the workshop.
