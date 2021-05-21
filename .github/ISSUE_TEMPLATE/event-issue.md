@@ -40,7 +40,7 @@ _Tell us how Open Source Community Africa can help with this event._
 
 **Before the event**: 
 - [ ] Your event is approved.
-- [ ] Your event's RSVP page has been created on [Open Collective](https://opencollective/osca).
+- [ ] Your event's RSVP page has been created on [Open Collective](https://opencollective.com/osca).
 - [ ] You have received your sponsorship (if requested).
 
 **After the event**:  
