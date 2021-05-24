@@ -26,7 +26,8 @@ _Please complete all applicable._
 - **Event name**:
 - **Event description**:
 - **Event date**: _yy/mm/dd_
-- **Event time**: _hour/minute (timezone)_
+- **Event time**: _hour:minute period (timezone)_
+- **Event duration**:
 - **Event location**:
 - **Estimated number of attendees**: 
 
