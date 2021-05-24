@@ -16,14 +16,19 @@ assignees: ''
 
 > Please note that we need **21 days maximum notice** to provide support from your request.
 
+> If you don't need any kind of support, please don't fill the request form.
+
+> You can delete the above comments before submitting your issue.
+
 ## Event information
 _Please complete all applicable._
 
 - **Event name**:
-- **Event date**: _yy/mm/dd_
-- **Estimated number of attendees**: 
-- **Event location**:
 - **Event description**:
+- **Event date**: _yy/mm/dd_
+- **Event time**: _hour/minute (timezone)_
+- **Event location**:
+- **Estimated number of attendees**: 
 
 ## How does this benefit your chapter?
 _Please let us know why we should approve this event._
