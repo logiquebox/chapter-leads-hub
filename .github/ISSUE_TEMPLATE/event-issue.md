@@ -50,6 +50,6 @@ _Tell us how Open Source Community Africa can help with this event._
 - [ ] You have received your sponsorship (if requested).
 
 **After the event**:  
-- [ ] You have completed the [post-event report](/chapter-leads-hub/blob/master/docs/post-event-template.md).
+- [ ] You have completed the [post-event report](/oscafrica/chapter-leads-hub/blob/master/docs/post-event-template.md).
 - [ ] You have submitted all related expense receipts for this event.
 - [ ] This issue is closed.
