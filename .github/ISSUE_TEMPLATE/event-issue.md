@@ -42,14 +42,14 @@ _Tell us how Open Source Community Africa can help with this event._
 **Before you post the issue**: 
 - [ ] You have followed the issue title format.
 - [ ] You have applied the correct labels (Country, Type of Event, Requests).
-- [ ] You have completed the [request form](https://bit.ly/osca-cl-request) for sponsorship.
+- [ ] You have completed the [request form](https://bit.ly/osca-cl-request) (if you need sponsorship).
 
 **Before the event**: 
 - [ ] Your event is approved.
-- [ ] Your event's RSVP page has been created on [Open Collective](https://opencollective.com/osca).
+- [ ] Your event's RSVP page has been created.
 - [ ] You have received your sponsorship (if requested).
 
 **After the event**:  
 - [ ] You have completed the [post-event report](/docs/post-event-template.md).
-- [ ] You have submitted all related expense receipts for this event.
+- [ ] You have submitted all [related expense receipts](/docs/expenses.md#tracking-your-expenses) for this event.
 - [ ] This issue is closed.
