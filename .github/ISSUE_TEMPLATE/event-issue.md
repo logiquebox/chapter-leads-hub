@@ -18,7 +18,7 @@ assignees: ''
 
 > If you don't need any kind of support, please don't fill the request form.
 
-> You can delete the above comments before submitting your issue.
+> Please delete all comments/quotes before submitting your issue.
 
 ## Event information
 _Please complete all applicable._
