@@ -1,7 +1,7 @@
 ---
 
 name: Event Issue
-about: Create an Issue to get support from OSCA for an event.
+about: Create an Issue for your proposed event/activity.
 title: EVENT NAME | CHAPTER - YYYY/MM/DD
 labels: ''
 assignees: ''
