@@ -8,7 +8,7 @@ assignees: ''
 
 ---
 
-> Before you start, please follow the issue title format and assign yourself to this issue.
+> Before you start, please follow the issue title format and assign yourself and your co-lead(s) to this issue.
 
 > If the event is a multiple date event, only add the starting date in the title.
 
@@ -18,7 +18,7 @@ assignees: ''
 
 > If you don't need any kind of support, please don't fill the request form.
 
-> Please delete all comments/quotes before submitting your issue.
+> PLEASE DELETE ALL COMMENTS/QUOTES BEFORE SUBMITTING YOUR ISSUE.
 
 ## Event information
 _Please complete all applicable._
