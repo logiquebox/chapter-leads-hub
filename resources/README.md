@@ -4,14 +4,15 @@ A curated list of useful links, tools and resources to help you become a succesf
 
 ## Table of Contents
 
-- [Internal useful links]
-- External useful links
-- Virtual hosting tools
-- Event banner design tools
-- RSVP tools
-- Q/A tools
-- Slide/presentation tools
-- Open source resources
+- [Internal useful links](#internal-useful-links)
+- [External useful links](#external-useful-links)
+- [Virtual hosting tools](#virtual-hosting-tools)
+- [Event banner design tools](#event-banner-design-tools)
+- [RSVP tools](#rsvp-tools)
+- [Q/A tools](#qa-tools)
+- [Slide/presentation tools](#slidepresentation-tools)
+- [Diversity resources](#diversity-resources)
+- [Open source resources](#open-source-resources)
 
 ## Internal Useful Links
 
@@ -55,6 +56,18 @@ A curated list of useful links, tools and resources to help you become a succesf
 
 ## Slide/presentation tools
 
+- [Google slides](https://slides.google.com)
+- [Slides.com](https://slides.com/bolajiayodeji)
+- [Speakerdeck](https://speakerdeck.com)
+- [Keynote](https://www.apple.com/keynote)
+
+## Diversity Resources
+
+- [Why We Need Diversity in Technology](https://youtu.be/OOQfQwxCOF0)
+- [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity)
+- [How I Got 50% Women Speakers at My Tech Conference](https://geekfeminismdotorg.wordpress.com/2012/05/21/how-i-got-50-women-speakers-at-my-tech-conference/)
+- [Ten Simple Rules to Achieve Conference Speaker Gender Balance](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003903)
+
 ## Open Source Resources
 
 - [The First Contributions project](https://github.com/firstcontributions/first-contributions) - Help beginners to contribute to open source projects.
@@ -63,10 +76,3 @@ A curated list of useful links, tools and resources to help you become a succesf
 - [Awesome Maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer.
 - [Black Speakers in Tech](https://github.com/samanthabretous/black-speakers-in-tech) - A list of black speakers in the development/tech/web space.
 - [Awesome Black Developers](https://github.com/bdougie/awesome-black-developers) - Amplifying the voices of Black developers in open source.
-
-## Diversity Resources
-
-- [Why We Need Diversity in Technology](https://youtu.be/OOQfQwxCOF0)
-- [Awesome Diversity](https://github.com/folkswhocode/awesome-diversity)
-- [How I Got 50% Women Speakers at My Tech Conference](https://geekfeminismdotorg.wordpress.com/2012/05/21/how-i-got-50-women-speakers-at-my-tech-conference/)
-- [Ten Simple Rules to Achieve Conference Speaker Gender Balance](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1003903)
