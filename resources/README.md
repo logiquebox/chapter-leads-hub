@@ -37,6 +37,7 @@ A curated list of useful links, tools and resources to help you become a succesf
 
 - [Google Meets](https://meets.google.com)
 - [Butter](https://butter.us)
+- [Streamyard](https://streamyard.com)
 - [Clubhouse](https://joinclubhouse.com)
 - [Twitter Spaces](https://help.twitter.com/en/using-twitter/spaces)
 - [Spotify Greenroom](https://spotify.com/us/greenroom)
@@ -51,6 +52,8 @@ A curated list of useful links, tools and resources to help you become a succesf
 ## RSVP tools
 
 - [Google forms](https://forms.google.com)
+- [SplashThat](https://splashthat.com)
+- [Rsvpify](https://rsvpify.com)
 
 ## Q/A tools
 
