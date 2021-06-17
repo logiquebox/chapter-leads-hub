@@ -6,13 +6,15 @@ A curated list of useful links, tools and resources to help you become a succesf
 
 - [Internal useful links](#internal-useful-links)
 - [External useful links](#external-useful-links)
-- [Virtual hosting tools](#virtual-hosting-tools)
+- [Virtual event hosting tools](#virtual-event-hosting-tools)
 - [Event banner design tools](#event-banner-design-tools)
 - [RSVP tools](#rsvp-tools)
-- [Q/A tools](#qa-tools)
+- [Q/A and games tools](#qa-and-games-tools)
 - [Slide/presentation tools](#slidepresentation-tools)
 - [Diversity resources](#diversity-resources)
 - [Open source resources](#open-source-resources)
+
+---
 
 ## Internal Useful Links
 
@@ -33,10 +35,11 @@ A curated list of useful links, tools and resources to help you become a succesf
 - [How to have great inclusive audio at your event](https://github.com/njt/event-audio)
 - [30 Creative Event Promotion Ideas to Increase Attendance](https://www.eventbrite.com/blog/creative-event-promotion-ideas-ds00/)
 
-## Virtual hosting tools
+## Virtual Event Hosting tools
 
 - [Google Meets](https://meets.google.com)
 - [Butter](https://butter.us)
+- [Zoom](https://zoom.us)
 - [Streamyard](https://streamyard.com)
 - [Clubhouse](https://joinclubhouse.com)
 - [Twitter Spaces](https://help.twitter.com/en/using-twitter/spaces)
@@ -49,15 +52,21 @@ A curated list of useful links, tools and resources to help you become a succesf
 - [BeFunky](https://www.befunky.com)
 - [PicMonkey](https://www.picmonkey.com)
 
-## RSVP tools
+## RSVP Tools
 
 - [Google forms](https://forms.google.com)
+- [Typeform](https://www.typeform.com)
 - [SplashThat](https://splashthat.com)
 - [Rsvpify](https://rsvpify.com)
 
-## Q/A tools
+## Q/A and Games Tools
 
-## Slide/presentation tools
+- [Slido](https://www.sli.do)
+- [PigeonHole](https://pigeonholelive.com)
+- [Kahoot](https://kahoot.it)
+- [Games For Online Events and Virtual Conferences](https://www.marketjs.com/games-for-online-events-virtual-conference-and-exhibitions)
+
+## Slide/presentation Tools
 
 - [Google slides](https://slides.google.com)
 - [Slides.com](https://slides.com/bolajiayodeji)
@@ -73,7 +82,7 @@ A curated list of useful links, tools and resources to help you become a succesf
 
 ## Open Source Resources
 
-- [The First Contributions project](https://github.com/firstcontributions/first-contributions) - Help beginners to contribute to open source projects.
+- [The First Contributions Project](https://github.com/firstcontributions/first-contributions) - Help beginners to contribute to open source projects.
 - [Awesome Opensource Apps](https://github.com/unicodeveloper/awesome-opensource-apps) - A curated list of awesome open source crafted web & mobile applications.
 - [Awesome Open Source](https://github.com/oscafrica/awesome-open-source) - A curated list of awesome resources: articles, books, videos, tools, podcasts about open source.
 - [Awesome Maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer.
