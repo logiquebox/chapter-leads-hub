@@ -1,9 +1,8 @@
 ---
-
 name: Event Issue
 about: Create an Issue for your proposed event/activity.
 title: EVENT NAME | CHAPTER - YYYY/MM/DD
-labels: ''
+labels: event
 assignees: ''
 
 ---
