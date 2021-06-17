@@ -10,16 +10,19 @@ OSCA Chapter Leads will use this repository for:
 
 ## How it works:
 
-- 🎖 Open an issue in this repository.
+- 🎖 Open an issue in this repository using the `Event Issue` template.
 - 🏷 Add the specific labels needed for your request.
 - ＠ Tag the community manager or any other OSCA team member to help with your request.
 - 🎊 Host the event!
 - 👍 Submit your post event report.
 - ✅ Close the issue.
 
-## Sponsorship Guidelines
+## Rules and useful links
 
-Here are the [guidelines around sponsorships](/docs/sponsorship.md), kindly check them out before opening an issue.
+- We need **2 weeks minimum and 3 weeks maximum notice** to approve proposed events.
+- We need **21 days maximum notice** to provide financial/other kinds of support for your request.
+- Here are a list of [curated links, tools and resources](/resources), kindly check them out.
+- Here are the [guidelines around sponsorships](/docs/sponsorship.md), kindly check them out before opening an issue.
 
 ## Here's a Request Example:
 
@@ -33,14 +36,13 @@ You will open an issue titled *"Introduction to Open Source Workshop | Lagos | 2
 
 You will then add the labels "Nigeria" (Your location) and "Workshop" (Event Type) to describe where you are and what you are organizing alongside any other related tag(s). See all tags [here](https://github.com/oscafrica/chapter-leads-hub/labels).
 
-
 ＠ **Tag anyone you think can help you**
 
-You will then tag the community manager or any other OSCA team member to help with your request.
+You will then tag the community manager to help with your request. Once reviewed, your event will be approved or rejected.
 
 🗣 **Publicize the event**
 
-Create a banner for your event using the design guidelines and share it with the global and your local OSCA community on Discord and social media. Your community manager will also create an RSVP page for you (once your event is approved), with which you will collect important information from your attendees before the event.
+Once your event is approved, create a banner for your event using the design guidelines, create an RSVP page with which you will collect important information from your attendees before the event, and share both with the global/local OSCA community on Discord and social media.
 
 ✨ **Host the event!**
 
