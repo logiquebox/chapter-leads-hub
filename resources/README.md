@@ -32,8 +32,10 @@ A curated list of useful links, tools and resources to help you become a succesf
 
 ## External Useful Links
 
+- [Building Welcoming Communities](https://opensource.guide/building-community)
 - [How to have great inclusive audio at your event](https://github.com/njt/event-audio)
 - [30 Creative Event Promotion Ideas to Increase Attendance](https://www.eventbrite.com/blog/creative-event-promotion-ideas-ds00/)
+- [How to Contribute to Open Source](https://opensource.guide/how-to-contribute)
 
 ## Virtual Event Hosting tools
 
@@ -82,9 +84,10 @@ A curated list of useful links, tools and resources to help you become a succesf
 
 ## Open Source Resources
 
+- [Open Source Guide](https://opensource.guide) - Learn how to launch and grow your open source project.
 - [The First Contributions Project](https://github.com/firstcontributions/first-contributions) - Help beginners to contribute to open source projects.
 - [Awesome Opensource Apps](https://github.com/unicodeveloper/awesome-opensource-apps) - A curated list of awesome open source crafted web & mobile applications.
-- [Awesome Open Source](https://github.com/oscafrica/awesome-open-source) - A curated list of awesome resources: articles, books, videos, tools, podcasts about open source.
+- [Awesome Open Source](https://github.com/oscafrica/awesome-open-source) - A curated list of awesome resources about open source.
 - [Awesome Maintainers](https://github.com/nayafia/awesome-maintainers) - Talks, blog posts, and interviews about the experience of being an open source maintainer.
 - [Black Speakers in Tech](https://github.com/samanthabretous/black-speakers-in-tech) - A list of black speakers in the development/tech/web space.
 - [Awesome Black Developers](https://github.com/bdougie/awesome-black-developers) - Amplifying the voices of Black developers in open source.
