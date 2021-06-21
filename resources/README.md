@@ -1,4 +1,4 @@
-# OSCA Chpater Leads Resources
+# OSCA Chapter Leads Resources
 
 A curated list of useful links, tools and resources to help you become a succesful Chapter Lead.
 
