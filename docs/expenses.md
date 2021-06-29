@@ -17,7 +17,7 @@ Once you have worked out an estimate of the cost, include it in your issue and w
 
 ## Sponsorship note
 
-It's important to remember that the budget available for sponsorship is limited and you should do your best to use it responsibly. Help us help you by spending responsibly. Please note, we need 21 days' notice at maximum to provide any sponsorship.
+It's important to remember that the budget available for sponsorship is limited and you should do your best to use it responsibly. Help us help you by spending responsibly. Please note, we need **21 days' notice at maximum** to provide any sponsorship.
 
 Expenses will be paid to your local bank, accepted payment methods (for non-Nigerians), or reimbursed via [Open Collective](https://opencollective.com/osca). Once your expense has been approved, OSCA's Finance or Community Manager will communicate the estimated time of arrival of the funds. When you make purchases, ensure to keep all receipts and proof of purchase. You will need them to follow the steps in the next section.
 
