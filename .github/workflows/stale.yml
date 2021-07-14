@@ -13,7 +13,7 @@ jobs:
     - uses: actions/stale@v3
       with:
         repo-token: ${{ secrets.GITHUB_TOKEN }}
-        stale-issue-message: 'Hi, you have not submitted your post event report yet. Kindly use the [Post Event Template](https://github.com/oscafrica/chapter-leads-hub/blob/master/docs/post-event-template.md), submit your report and we will close this issue'
+        stale-issue-message: 'Hi :wave:, you have not submitted your post event report yet. Kindly use the [Post Event Template](https://github.com/oscafrica/chapter-leads-hub/blob/master/docs/post-event-template.md) and submit your report so we can review and close this issue. Thank you!'
         stale-issue-label: 'no-post-event-report'
         days-before-issue-stale: 30
         days-before-issue-close: -1
