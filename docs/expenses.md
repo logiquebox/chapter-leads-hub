@@ -27,6 +27,6 @@ You will need access to the [expenses folder](https://drive.google.com/drive/fol
 
 - Ensure your event issue is open at https://github.com/oscafrica/chapter-leads-hub.
 - Ensure you get expense approval before expenses.
-- Keep receipts and proof of purchases.
-- Upload receipts to the [receipt folder](https://drive.google.com/drive/folders/12nmfXKsLdxx0bDPmIf_xOaylP82aEbZs?usp=sharing) with the title: **YOUR NAME - MERCHANT NAME - DATE OF PURCHASE**
-- Fill out the row in the [expense log](https://docs.google.com/spreadsheets/d/1OXQcCQ3FDHxbxTb-796xf1yPVuF3ipDP8g7UcbaLmm8/edit?usp=sharing).
+- Keep all receipts and proof of purchases.
+- Upload all receipts to this [receipt folder](https://drive.google.com/drive/folders/12nmfXKsLdxx0bDPmIf_xOaylP82aEbZs?usp=sharing) with the title format: **YOUR NAME - MERCHANT NAME - DATE OF PURCHASE**
+- Fill out a row in this [expense log document](https://docs.google.com/spreadsheets/d/1OXQcCQ3FDHxbxTb-796xf1yPVuF3ipDP8g7UcbaLmm8/edit?usp=sharing).
