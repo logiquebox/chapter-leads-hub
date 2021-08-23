@@ -26,7 +26,8 @@ Expenses will be paid to your local bank, accepted payment methods (for non-Nige
 You will need access to the [expenses folder](https://drive.google.com/drive/folders/12nmfXKsLdxx0bDPmIf_xOaylP82aEbZs?usp=sharing) on Google Drive and [expense log](https://docs.google.com/spreadsheets/d/1OXQcCQ3FDHxbxTb-796xf1yPVuF3ipDP8g7UcbaLmm8/edit?usp=sharing) on Google Spreadsheets. Kindly contact _Bolaji#3828_ or _Edidiong#5608_ on [Discord](https://discord.gg/8STPZzN) to request access.
 
 - Ensure your event issue is open at https://github.com/oscafrica/chapter-leads-hub.
-- Ensure you get expense approval before expenses.
+- Ensure your expense request is approved.
 - Keep all receipts and proof of purchases.
-- Upload all receipts to this [receipt folder](https://drive.google.com/drive/folders/12nmfXKsLdxx0bDPmIf_xOaylP82aEbZs?usp=sharing) with the title format: **YOUR NAME - MERCHANT NAME - DATE OF PURCHASE**
+- Create a new folder in this [expenses folder](https://drive.google.com/drive/folders/12nmfXKsLdxx0bDPmIf_xOaylP82aEbZs?usp=sharing) with the title format: **YOUR CHAPTER NAME - DATE OF EVENT**
+- Upload all receipts to the folder you created with the title format: **YOUR NAME - MERCHANT NAME - DATE OF PURCHASE**
 - Fill out a row in this [expense log document](https://docs.google.com/spreadsheets/d/1OXQcCQ3FDHxbxTb-796xf1yPVuF3ipDP8g7UcbaLmm8/edit?usp=sharing).
