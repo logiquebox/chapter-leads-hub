@@ -1,7 +1,7 @@
 ---
 name: Event Issue
 about: Create an Issue for your proposed event/activity.
-title: EVENT NAME | CHAPTER - YYYY/MM/DD
+title: EVENT NAME | CHAPTER - DD/MM/YYYY
 labels: event
 assignees: ''
 
@@ -24,7 +24,7 @@ _Please complete all applicable._
 
 - **Event name**:
 - **Event description**:
-- **Event date**: _yy/mm/dd_
+- **Event date**: _dd/mm/yyyy_
 - **Event time**: _hour:minute period (timezone)_
 - **Event duration**:
 - **Event location**:
