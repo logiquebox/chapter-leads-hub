@@ -23,7 +23,7 @@ OSCA Chapter Leads will use this repository for:
 - We need **21 days maximum notice** to provide financial/other kinds of support for your request.
 - Here are a list of [curated links, tools and resources](/resources), kindly check them out.
 - Here are the [guidelines around sponsorships](/docs/sponsorship.md), kindly check them out before opening an issue.
-- If you require sponsorship for your event check out the [Event Budget Template](https://docs.google.com/document/d/19gucY1Nx98h4FfhhZfm1WEQbzC3p2o-OEJPMuRoQ8XQ/edit?usp=sharing) and make a copy of the file.
+- If you require sponsorship for your event, kindly check out this [Event Budget Template](https://docs.google.com/document/d/19gucY1Nx98h4FfhhZfm1WEQbzC3p2o-OEJPMuRoQ8XQ/edit?usp=sharing), make a copy of the file, and use it to prepare your budget.
 
 ## Here's a Request Example:
 
